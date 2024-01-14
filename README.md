@@ -13,7 +13,7 @@ Subsequently, the research will extend its scope by offering practical guidance 
 git clone https://github.com/FlyinHedgehog/dst-impact-analysis
 
 # Change to the project directory
-cd your-repo
+cd dst-impact-analysis
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
