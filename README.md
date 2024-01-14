@@ -1,4 +1,4 @@
-# Analysis on Türkiye's Decision to Repeal Daylight Saving Time
+# Analysis on Türkiye's Decision to Make Daylight Saving Time Permanent
 This study aims to provide a comprehensive overview of Türkiye’s decision to abolish the Daylight Saving Time policy and remain on permanent DST.
 
 ## Overview
